@@ -1,3 +1,6 @@
+// RTL_wh2080 - A rtl-sdr reciever for Fine Offset WH2080-type Weather Stations.
+//
+// Project forked from:
 // RTLAMR - An rtl-sdr receiver for smart meters operating in the 900MHz ISM band.
 // Copyright (C) 2014 Douglas Hall
 //
